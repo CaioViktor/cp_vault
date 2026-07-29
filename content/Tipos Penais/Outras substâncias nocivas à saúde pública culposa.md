@@ -1,0 +1,135 @@
+---
+id: "CP_278_PU"
+nome: "Outras substâncias nocivas à saúde pública culposa"
+entidade: "TIPO_PENAL"
+artigo: "278"
+paragrafo: "unico"
+inciso: null
+alinea: null
+item: null
+modalidade: "CULPOSO"
+tipo_base_id: "CP_278_CAPUT"
+pena_especie: "DETENCAO"
+pena_minima_meses: 2
+pena_maxima_meses: 12
+violencia: null
+grave_ameaca: null
+sexual: false
+sexo_exigido: "QUALQUER"
+prescritibilidade: "NAO_DETERMINAVEL_PELO_CP"
+aliases: ["CP_278_PU"]
+tags: ["kg/tipo-penal", "kg/modalidade/culposo"]
+---
+
+# Outras substâncias nocivas à saúde pública culposa
+
+**ID:** `CP_278_PU`
+
+**Dispositivo:** Art. 278, parágrafo único
+
+## Descrição legal
+
+> Se o crime é culposo
+
+## Taxonomia
+
+**DERIVA_DE:** [[Outras substâncias nocivas à saúde pública]]
+
+## Pena
+
+**Espécie:** Detenção
+
+**Mínima:** 2 meses (`2` meses)
+
+**Máxima:** 1 ano (`12` meses)
+
+### Texto legal da pena
+
+> detenção, de dois meses a um ano
+
+**Multa prevista:** Não
+
+## Atributos jurídicos
+
+### Natureza
+
+- **Violência:** Não determinado
+- **Grave ameaça:** Não determinado
+- **Sexual:** Não
+
+### Sujeito passivo
+
+- **Sexo exigido:** Qualquer
+- **Vulnerabilidade exigida:** Não
+
+### Prescritibilidade
+
+**Status:** Não determinável exclusivamente pelo Código Penal
+
+## Causas modificadoras
+
+### Forma qualificada culposa de crime de perigo comum com lesão corporal
+
+**ID:** `CP_258_CULPA_LESAO`
+
+**Categoria:** Aumento
+
+**Dispositivo:** Art. 258
+
+**Hipótese legal:**
+
+> Aplica-se o disposto no art. 258 aos crimes previstos no Capítulo III (Dos Crimes Contra a Saúde Pública), salvo quanto ao definido no art. 267: no caso de culpa, se do fato resulta lesão corporal, a pena aumenta-se de metade
+
+**Efeito:**
+
+- Tipo: Fração
+- Mínimo: `1/2`
+- Máximo: `1/2`
+
+**Condições:**
+
+- o crime é praticado a título de culpa
+- do fato resulta lesão corporal
+
+### Forma qualificada culposa de crime de perigo comum com resultado morte
+
+**ID:** `CP_258_CULPA_MORTE`
+
+**Categoria:** Aumento
+
+**Dispositivo:** Art. 258
+
+**Hipótese legal:**
+
+> Aplica-se o disposto no art. 258 aos crimes previstos no Capítulo III (Dos Crimes Contra a Saúde Pública), salvo quanto ao definido no art. 267: no caso de culpa, se do fato resulta morte, aplica-se a pena cominada ao homicídio culposo (art. 121, § 3º do Código Penal: detenção, de um a três anos), aumentada de um terço. Não se trata de fração incidente sobre a pena do próprio tipo penal, mas de substituição da pena, seguida de aumento de 1/3
+
+**Efeito:**
+
+- Tipo: Substituição
+- Mínimo: `1/3`
+- Máximo: `1/3`
+
+**Condições:**
+
+- o crime é praticado a título de culpa
+- do fato resulta morte
+
+## Evidências
+
+### Evidência 1 — página 0
+
+**Finalidade:** Tipificacao
+
+> Parágrafo único - Se o crime é culposo:
+
+### Evidência 2 — página 0
+
+**Finalidade:** Tipificacao
+
+> Pena - detenção, de dois meses a um ano.
+
+### Evidência 3 — página 0
+
+**Finalidade:** Pena
+
+> Pena - detenção, de dois meses a um ano.
