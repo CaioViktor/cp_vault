@@ -6,8 +6,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: github.com/CaioViktor/cp_vault
+  locale: pt-BR
+  baseUrl: caioviktor.github.io/cp_vault
   ignorePatterns:
     - private
     - templates
