@@ -219,10 +219,19 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: CaioViktor/cp_vault
+        repoId: R_kgDOTnRZWg
+        category: Feedback
+        categoryId: DIC_kwDOTnRZWs4DCQDi
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: bottom
+        lang: pt
     layout:
       position: afterBody
       priority: 10
